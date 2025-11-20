@@ -274,4 +274,6 @@ Permission Denied	Fix folder permissions
 
 Avinash Zalake
 Cloud & DevOps Engineer
+
 AWS | Linux | PHP | RDS | S3 | CI/CD
+- [LinkedIn Profile](https://www.linkedin.com/in/%F0%9D%99%B0%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%9C%F0%9D%9A%91-%F0%9D%9A%89%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9A%94%F0%9D%9A%8E-1884b024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
